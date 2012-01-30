@@ -1,0 +1,6 @@
+# Do not include these in diff
+
+--exclude=*.lcs
+--exclude=*.lcd
+--exclude=*.lh
+--exclude=*.gen
